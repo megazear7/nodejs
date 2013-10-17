@@ -1,0 +1,13 @@
+The best server to base a server on (as of 10/17/2013) is the one in uploadImageToTmp and SubmitTextAndShowFile.
+
+The order of progression goes as follows:
+
+helloWorld -> simplerServer -> causeBashCommandFromWeb -> submitTextandShowFile -> uploadImageToTmp
+
+Controller View Model was not implemented in this. The next example server should probably be to add in controller view model.
+
+Another example server that shows how to do unit testing could also be helpful.
+
+Another example server that creates / utilizes custom NPM packages would be useful.
+
+And another one that explains object-oriented javascript could also be useful.
